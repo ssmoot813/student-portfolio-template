@@ -38,7 +38,7 @@ The full version includes:
 
 Available here:
 
-👉 https://yourgumroadlink
+👉 (https://smootlabs.gumroad.com/l/ylxuk)
 
 ---
 
