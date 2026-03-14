@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Student Developer Portfolio (Free Version)</title>
+    <meta name="description"
+        content="A free starter portfolio template for student developers and beginner programmers.">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <a class="skip-link" href="#main">Skip to main content</a>
+
+    <header>
+        <div class="topbar">
+            <h1>Student Developer Portfolio</h1>
+
+            <div class="chips">
+                <span class="chip">Free Version</span>
+                <span class="chip">HTML + CSS</span>
+            </div>
+        </div>
+
+        <p class="subtitle">
+            A clean starter portfolio template for showcasing coding projects, experiments, and learning progress.
+        </p>
+
+        <div class="hero-actions">
+            <a class="button primary" href="#main">View Projects</a>
+            <a class="button secondary" href="mailto:you@example.com">Contact</a>
+        </div>
+    </header>
+
+    <main id="main" class="container">
+
+        <div class="grid">
+
+            <section class="card">
+                <h2>
+                    Featured Projects
+                    <span class="badge">Free</span>
+                </h2>
+
+                <ul>
+                    <li>
+                        <a class="link" href="#">
+                            <span class="left">
+                                <span class="title">Project One</span>
+                                <span class="meta">Responsive layout + semantic HTML</span>
+                            </span>
+                            <span class="pill">View</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a class="link" href="#">
+                            <span class="left">
+                                <span class="title">Project Two</span>
+                                <span class="meta">Accessibility + modern CSS</span>
+                            </span>
+                            <span class="pill">View</span>
+                        </a>
+                    </li>
+                </ul>
+            </section>
+
+            <section class="card">
+                <h2>
+                    Practice &amp; Experiments
+                    <span class="badge">Starter</span>
+                </h2>
+
+                <ul>
+                    <li>
+                        <a class="link" href="#">
+                            <span class="left">
+                                <span class="title">Practice Exercise One</span>
+                                <span class="meta">DOM selection + element updates</span>
+                            </span>
+                            <span class="pill warn">Try It</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a class="link" href="#">
+                            <span class="left">
+                                <span class="title">Practice Exercise Two</span>
+                                <span class="meta">Modal interactions + event handling</span>
+                            </span>
+                            <span class="pill warn">Try It</span>
+                        </a>
+                    </li>
+                </ul>
+
+                <div class="tip">
+                    This is the free version of the Student Developer Portfolio Template.<br><br>
+                    The full version includes additional project sections, more practice items, and a more complete
+                    layout for showcasing your work.
+                </div>
+            </section>
+
+        </div>
+
+    </main>
+
+    <footer>
+        <span class="small">© <span id="year"></span> Student Portfolio Template</span>
+        <span class="small">Free Version • Ready for GitHub Pages</span>
+    </footer>
+
+    <script>
+        document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+
+</body>
+
+</html>
