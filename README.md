@@ -6,6 +6,12 @@ Perfect for showcasing coding projects and learning progress.
 
 ---
 
+## Preview
+
+![Portfolio Template Preview](portfolio-template-preview.png)
+
+---
+
 ## Features
 
 - responsive layout
@@ -16,15 +22,9 @@ Perfect for showcasing coding projects and learning progress.
 
 ---
 
-## Preview
-
-![Preview](preview.png)
-
----
-
 ## Free Version
 
-This repository contains the **free starter version**.
+This repository contains the **free version** of the template.
 
 ---
 
@@ -33,13 +33,12 @@ This repository contains the **free starter version**.
 The full version includes:
 
 - additional project sections
-- more layout options
-- future updates
+- expanded layout
+- future template updates
 
 Available here:
 
-👉 (https://smootlabs.gumroad.com/l/ylxuk)
-
+👉 https://smootlabs.gumroad.com/l/ylxuk
 ---
 
 ## How to Use
@@ -51,6 +50,4 @@ Available here:
 
 ---
 
-## License
-
-Free for personal use.
+⭐ If you like this template, please consider starring the repo!
