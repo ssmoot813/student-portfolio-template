@@ -8,7 +8,7 @@ Perfect for showcasing coding projects and learning progress.
 
 ## Preview
 
-![Portfolio Template Preview](portfolio-template-preview.png)
+preview.png
 
 ---
 
