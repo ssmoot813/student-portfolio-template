@@ -8,7 +8,7 @@ Perfect for showcasing coding projects and learning progress.
 
 ## Preview
 
-preview.png
+![Portfolio Template Preview](portfolio-template-preview.png)
 
 ---
 
@@ -39,6 +39,7 @@ The full version includes:
 Available here:
 
 👉 https://smootlabs.gumroad.com/l/ylxuk
+
 ---
 
 ## How to Use
